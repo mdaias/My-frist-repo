@@ -1,0 +1,25 @@
+ul li{
+    display: inline;
+    font-size: 30px;
+    margin-inline-end: 60px;
+
+}
+span{
+    font-size: 50px;
+    font-style: italic;
+}
+div{
+    background-color: rgba(7, 7, 238, 0.103);
+    border-radius: 25px;
+
+}
+ul{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 4em;
+}
+h2{
+    display: inline;
+}
